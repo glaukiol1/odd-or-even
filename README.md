@@ -1,2 +1,10 @@
 # odd-or-even
-Odd or even numbers in python, idek
+Find if a number is odd or even in Python.
+
+## Usage
+
+```sh
+$ python main.py
+ Enter your number: ### NUMBER HERE ####
+ Odd! 
+```
